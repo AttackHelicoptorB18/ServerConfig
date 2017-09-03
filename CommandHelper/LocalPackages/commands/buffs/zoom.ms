@@ -29,5 +29,6 @@
                 "/effect ". @plr ." 21 9999 4 true",
                 "/effect ". @plr ." 10 9999 3 true",
                 "/give ". @plr ." minecraft:iron_boots 1 8:30 4:30 name:&9W&1a&9ter_Ru&1nn&9ing_&4B&eoo&4ts"                
+                "/give ". @plr ." minecraft:lingering_potion 1 0 {CustomPotionEffects:[{Id:1,Amplifier:24,Duration:9600},{Id:20,Amplifier:2,Duration:2147483647},{Id:24,Duration:2147483647}],CustomPotionColor:16121856,display:{Name:"&9Velocity &59",Lore:["Made by SaltWithNoPepper aka Dr.Salt"]}}
             )
         )
