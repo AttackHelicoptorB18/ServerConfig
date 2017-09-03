@@ -40,7 +40,7 @@
                 "/effect ". @plr ." 21 9999 4 true",
                 "/give ". @plr ." minecraft:iron_boots 1 8:30 4:30 name:&9W&1a&9ter_Ru&1nn&9ing_&4B&eoo&4ts"                
                 "/give ". @plr ."289 1 0 {display:{color:14702080}}{display:{Name:"Flash_suit"},ench:[{id:3,lvl:100},{id:34,lvl:10000},{id:7,lvl:5},{id:3,lvl:10}]}
-                "/give ". @plr ."299 1 0 {display:{color:14702080}}{display:{Name:"Flash_1suit"},ench:[{id:3,lvl:100},{id:34,lvl:10000},{id:7,lvl:5},{id:3,lvl:10}]}
+                "/give ". @plr ."299 1 0 {display:{color:14702080}}{display:{Name:"Flash_suit"},ench:[{id:3,lvl:100},{id:34,lvl:10000},{id:7,lvl:5},{id:3,lvl:10}]}
                 "/give ". @plr ."300 1 0 {display:{color:14702080}}{display:{Name:"Flash_suit"},ench:[{id:3,lvl:100},{id:34,lvl:10000},{id:7,lvl:5},{id:3,lvl:10}]}
                 "/give ". @plr ."301 1 0 {display:{color:14702080}}{display:{Name:"Flash_suit"},ench:[{id:3,lvl:100},{id:34,lvl:10000},{id:7,lvl:5},{id:3,lvl:10}]}
             )
