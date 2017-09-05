@@ -41,6 +41,7 @@
                 "/effect ". @plr ." 5 9999 1 true",
                 "/effect ". @plr ." 10 9999 1 true",
                 "/effect ". @plr ." 11 9999 1 true",
-                "/effect ". @plr ." 21 9999 4 true"                
+                "/effect ". @plr ." 21 9999 4 true",                
+                "/give ". @plr ." minecraft:tipped_arrow 1 0 {CustomPotionEffects:[{Id:2,Amplifier:4,Duration:20}]}"
             )
         )
